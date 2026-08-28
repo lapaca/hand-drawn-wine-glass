@@ -5,7 +5,7 @@ https://img.shields.io/badge/GPU_Acceleration-100%2525-orange.svg
 
 A minimal, ultra‑fast, zero‑dependency hand‑drawn pencil‑style interactive red wine glass effect. Powered by pure mathematical physics dimensionality reduction, it delivers beautifully hand‑drawn animations with maximum rendering performance.
 
-1. 🏎️ 100x performance boost over Canvas fluid physics engines
+1. 🏎️ 40x performance boost over Canvas fluid physics engines
 Traditional fluid sloshing relies on heavy physics engines (e.g., Matter.js, P2.js) or complex per‑frame fluid‑collision particle calculations on Canvas, which often cause main‑thread jank and overheating on mobile devices.
 
 Our innovative approach: Reduce fluid physics to pure CSS level. We use multiple ultra‑wide Bezier curves for seamless displacement to generate waves, offloading rendering directly to GPU hardware acceleration.
